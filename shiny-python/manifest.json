@@ -13,12 +13,20 @@
       "package_file": "requirements.txt"
     }
   },
+  "environment": {
+    "python": {
+      "requires": ">= 3.10.18"
+    }
+  },
   "files": {
     "requirements.txt": {
-      "checksum": "b2f85d2a3795a1b0937aa47bb1fc1761"
+      "checksum": "5d9553c14332636495696b1a847657b8"
     },
     "app.py": {
       "checksum": "1447b71cb0f9e2a8f5d2c41c3ab4c5ae"
+    },
+    "mathgame.tar.gz": {
+      "checksum": "8b637d45ebd3b8680948ffb64040cdeb"
     },
     "pyproject.toml": {
       "checksum": "f071ae6f6ca69a7975d1a8492a50b41a"
